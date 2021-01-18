@@ -1,0 +1,6 @@
+{
+  "Export arrow function": {
+    "prefix": "eaf",
+    "body": ["export const $TM_FILENAME_BASE = (${1}) => {${2}};", ""]
+  }
+}
